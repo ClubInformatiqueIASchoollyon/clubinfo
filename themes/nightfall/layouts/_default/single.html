@@ -18,7 +18,7 @@
                 {{ partial "taxonomy/categories.html" . }}
             {{ end }}
             {{ if .Site.Params.readingTime | default true }}
-                <dt>{{ i18n "reading_time" }}</dt>
+                <dt>Lecture :</dt>
                 <dd>{{ i18n "reading_time_desc" .ReadingTime }}</dd>
             {{ end }}
         </dl>
