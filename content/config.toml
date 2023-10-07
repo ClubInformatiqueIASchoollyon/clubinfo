@@ -1,4 +1,4 @@
-baseURL = 'https://iainfoclub.netlify.app'
+baseURL = 'https://iainfoclub.netlify.app/blog'
 languageCode = 'fr-fr'
 theme = "nightfall"
 
