@@ -6,7 +6,7 @@ theme = "nightfall"
   [[menu.header]]
     name = "Le club"
     weight = 0
-    url = "blog"
+    url = "post"
   [[menu.header]]
     name = "à propos"
     weight = 1
