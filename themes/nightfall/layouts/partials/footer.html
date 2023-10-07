@@ -1,0 +1,10 @@
+<footer class="footer">
+    {{ with .Site.Params.footerHtml }}
+        <span>{{ . | safeHTML }}</span>
+    {{ else }}
+        <span>
+            © {{ now.Format "2006" }} {{ .Site.Params.author }}, made by
+            <a href="https://nfteam.netlify.app" class="footerLink">Neckfire | neckfire team</a>
+        </span>
+    {{ end }}
+</footer>
