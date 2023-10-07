@@ -1,4 +1,4 @@
-baseURL = 'http://gohugo.com'
+baseURL = 'https://iainfoclub.netlify.app'
 languageCode = 'fr-fr'
 theme = "nightfall"
 
