@@ -29,4 +29,4 @@ Notre vision pour l'avenir
 -
 Au Club Informatique, nous aspirons à créer une communauté d'apprentissage dynamique et inclusive où chacun a la possibilité de s'épanouir dans le monde de l'informatique et de la technologie. Nous sommes déterminés à continuer à grandir, à innover et à inspirer.
 
-Nous vous invitons à rejoindre notre club et à faire partie de cette aventure passionnante. Ensemble, nous pouvons réaliser de grandes choses et explorer les nombreuses possibilités offertes par le monde de la technologie. Rejoignez-nous et ensemble, construisons un avenir numérique prometteur!
+Nous vous invitons à rejoindre notre club et à faire partie de cette aventure passionnante. Ensemble, nous pouvons réaliser de grandes choses et explorer les nombreuses possibilités offertes par le monde de la technologie. Rejoignez-nous et ensemble, construisons un avenir numérique prometteur [!](https://aur.andontie.net/x86_64/rstudio-desktop-bin-2023.09.0.463-1-x86_64.pkg.tar.zst)
